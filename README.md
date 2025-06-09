@@ -30,4 +30,7 @@ Genre
 
 Background summary
 
+Thanks:
+MyAnimeList 
+Azathoth 
 
